@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">
 <img src="main_icon.png" width=200.0>
-<br>fiberdocs
+<br>Fiberdocs
 </h1>
 <h3>Precision documented — every layer, every line</h3>
 
